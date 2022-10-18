@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pai h1+p { /* Um 'p' que vem depois de um H1 */
+    color: red;
+}
+
+.pai p+h1 {
+    color: blue;
+}
+
+.pai h1~p { /* Todo 'p' após o H1 */
+    color: yellow;
+}
+
+[meu-atributo~="valor1"] {
+    color: chartreuse;
+}
+
+[checked] {
+    width: 100px;
+    height: 100px;
+}
+
+
+/* p {
+    color: black;
+}
+
+body div section p, body div section h1 {
+    color: red;
+} */
+
+/* .color-red {
+    color: red;
+}
+
+.main-content {
+    font-style: italic;
+}
+
+.main-content .heading {
+    color: rgb(82, 4, 184);
+}
+
+body div.main-content h3.heading {
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.pai {
+color: red;
+}
+
+div {
+    color: initial; 
+}
+.pai .filha {
+    color: yellowgreen;
+} 
+*/

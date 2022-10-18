@@ -1,0 +1,111 @@
+.heading {
+    transition: all 500ms ease-in-out;
+}
+
+.heading:hover {
+    background: red;
+}
+
+a {
+    color: darkorange;
+}
+
+a:link {
+    color: deeppink;
+}
+
+a:visited {
+    color: firebrick;
+}
+
+a:hover {
+    background: darkslateblue;
+    color: white;
+    text-decoration: none;
+}
+
+a:active {
+    background: darkblue;
+    color: white;
+    text-decoration: none;
+}
+
+input:focus {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    outline: none;
+    border: 1px solid black;
+}
+
+input:disabled {
+    background-color: brown;
+    cursor: not-allowed;
+}
+
+input:enabled {
+    background-color: aliceblue;
+}
+
+input:checked + p{
+   background: brown;
+}
+
+.pai .lista li:last-child {
+    background: brown;
+}
+
+input:checked + p {
+    background: blueviolet;
+}
+
+ul li:nth-child(even) {
+    background-color: darkturquoise;
+}
+
+ul li:nth-child(odd) {
+    background-color: darkred;
+}
+
+ul li:nth-child(3n+5) {
+    background-color: darkgreen;
+}
+
+ul li:after { /* before - antes */
+    content: ' - ';
+    background-color: darkcyan;
+    color: blue;
+    display: block;
+}
+
+p {
+    font-size: 24px;
+}
+p::first-letter {
+    font-size: 70px;
+    display: block;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+p::selection {
+    background: black;
+    color: white;
+}
+
+#lorem {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-family: initial; /* não irá herdar as caracteristicas do pai */
+}
+
+/*
+STYLE -- ID > CLASSES > ATRIBUTOS > PSEUDO ELEMENTOS > ELEMENTOS E PSEUDO ELEMENTOS 
+ */
+
+/*
+Especificidade
+Empate
+Style
+!important 
+ */

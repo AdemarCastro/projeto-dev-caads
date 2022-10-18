@@ -1,0 +1,37 @@
+/*  rem = relativo ao HTML, em = relativo a div pai 
+    vmin = menor parte do viewport, vmax = maior parte do viewport
+*/
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pai {
+    width: 50rem; /* 500px */
+    /* width: 100vw; */
+    height: 100vh;
+    background-color: darkgoldenrod;    
+}
+p {
+    font-size: 1.6rem;
+}
+
+.color-one {
+    background-color: aqua;
+}
+
+.color-two {
+    background-color: aquamarine;
+}
+
+.pai > div {
+    width: 50%;
+    height: 50rem;
+    background-color: darkcyan;
+}

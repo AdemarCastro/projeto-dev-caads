@@ -20,7 +20,13 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
   <img src="https://www.svgrepo.com/show/355140/node.svg" width="100px"/> &ensp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="100px"/> &ensp;
 </div>
-&emsp; &ensp; JavaScript &emsp; &emsp; Typescript &emsp;&emsp; React &emsp;&emsp; HTML5 &emsp;&emsp; CSS3 &emsp;&emsp; Node.js &emsp;&emsp; Express
+&emsp; <strong>&emsp;JavaScript</strong>
+&emsp; <strong>&emsp;TypeScript</strong>
+&emsp;&emsp; <strong>&emsp;React</strong>
+&emsp;&emsp;&emsp; <strong>&emsp;HTML5</strong>
+&emsp;&emsp;&emsp; <strong>&emsp;CSS3</strong>
+&emsp;&emsp;&ensp; <strong>&emsp;Node.js</strong>
+&emsp;&emsp; <strong>&emsp;Express.js</strong>
 <div>
   &emsp; <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="100px"/> &ensp;

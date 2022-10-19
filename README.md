@@ -28,6 +28,7 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
 &emsp;&emsp;&ensp; <strong>&emsp;Node.js</strong>
 &emsp;&emsp; <strong>&emsp;Express.js</strong>
 <div>
+<br>
   &emsp; <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/354099/mysql.svg" width="100px"/> &ensp;

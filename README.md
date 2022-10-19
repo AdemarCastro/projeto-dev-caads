@@ -75,7 +75,7 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
 </div>
 
 <div align="center">
-  <strong>Redux</strong>
-  &emsp;&emsp;&emsp;&emsp;&nbsp; <strong>Next.js</strong>
-  &emsp;&emsp;&emsp;&ensp; <strong>&emsp;Knex.js</strong>
+  &nbsp;&nbsp;<strong>Redux</strong>
+  &emsp;&emsp;&emsp;&emsp; <strong>Next.js</strong>
+  &emsp;&emsp;&ensp; <strong>&emsp;Knex.js</strong>
 </div>

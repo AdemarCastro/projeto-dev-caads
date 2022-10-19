@@ -19,16 +19,20 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
   <img src="https://www.svgrepo.com/show/373535/css.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/355140/node.svg" width="100px"/> &ensp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="100px"/> &ensp;
+</div>
+<div>
   <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/354099/mysql.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/373965/pgsql.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" width="100"/> &ensp;
+  <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="100"/> &ensp;
 </div>
   &ensp;  JavaScript
 <div>
-  &emsp; <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="50px"/> &ensp;
+  &emsp; 
+  
   <img src="https://img.icons8.com/color/452/java-web-token.png" width="50px"/> &ensp;
   <img src="https://www.iconsdb.com/icons/preview/white/linux-xxl.png" width="50px"/> &ensp;
   <img src="https://www.svgrepo.com/show/349544/ubuntu.svg" width="50px"/> &ensp;

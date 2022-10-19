@@ -26,6 +26,9 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
   <img src="https://www.svgrepo.com/show/373965/pgsql.svg" width="50px"/> &ensp;
 </div>
 <div>
+  &emsp; <h3>JavaScript</h3>
+</div>
+<div>
   &emsp; <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" width="50px"/> &ensp;
   <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="50px"/> &ensp;
   <img src="https://img.icons8.com/color/452/java-web-token.png" width="50px"/> &ensp;

@@ -12,18 +12,18 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
 
 # Tecnologias utilizadas durante o projeto
 <div>
-  &emsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/354259/react.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/373669/html.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/373535/css.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/355140/node.svg" width="50px"/> &ensp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/354099/mysql.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="50px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/373965/pgsql.svg" width="50px"/> &ensp;
+  &emsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/354259/react.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/373669/html.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/373535/css.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/355140/node.svg" width="100px"/> &ensp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/354099/mysql.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="100px"/> &ensp;
+  <img src="https://www.svgrepo.com/show/373965/pgsql.svg" width="100px"/> &ensp;
 </div>
   &ensp;  JavaScript
 <div>

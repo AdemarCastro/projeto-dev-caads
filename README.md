@@ -57,6 +57,15 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
   <img src="https://www.svgrepo.com/show/354333/sequelize.svg" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/353930/jest.svg" width="100px"/> &ensp;
 </div>
+
+&emsp;&emsp;&ensp; <strong>&emsp;JWT</strong>
+&emsp;&emsp;&ensp;&nbsp; <strong>&emsp;Linux</strong>
+&emsp;&emsp; <strong>&emsp;Ubuntu Server</strong>
+&emsp;&emsp; <strong>&emsp;Webpack</strong>
+&emsp;&nbsp; <strong>&emsp;Babel</strong>
+&emsp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
+&emsp;&emsp; <strong>&emsp;Jest</strong>
+
 <div align="center">
   &emsp; <img src="https://www.svgrepo.com/show/354274/redux.svg" width="100px"/> &ensp;
   <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="100px"/> &ensp;

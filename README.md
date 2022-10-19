@@ -25,7 +25,7 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
 &emsp;&emsp; <strong>&emsp;React</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;HTML5</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;CSS3</strong>
-&emsp;&emsp;&ensp;&ensp; <strong>&emsp;Node.js</strong>
+&emsp;&emsp;&ensp; <strong>&emsp;&nbspNode.js</strong>
 &emsp;&emsp; <strong>&emsp;Express.js</strong>
 <div>
 <br>

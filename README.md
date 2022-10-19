@@ -49,6 +49,7 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
 &emsp;&emsp; <strong>&emsp;NestJS</strong>
 
 <div>
+  <br>
   &emsp; <img src="https://img.icons8.com/color/452/java-web-token.png" width="100px"/> &ensp;
   <img src="https://www.iconsdb.com/icons/preview/white/linux-xxl.png" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/349544/ubuntu.svg" width="100px"/> &ensp;
@@ -67,6 +68,7 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
 &emsp;&emsp; <strong>&emsp;Jest</strong>
 
 <div align="center">
+  <br>
   &emsp; <img src="https://www.svgrepo.com/show/354274/redux.svg" width="100px"/> &ensp;
   <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/353972/knex.svg" width="100px"/> &ensp;

@@ -59,17 +59,23 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
   <img src="https://www.svgrepo.com/show/353930/jest.svg" width="100px"/> &ensp;
 </div>
 
-&emsp;&emsp;&ensp; <strong>&emsp;JWT</strong>
-&emsp;&emsp;&ensp;&nbsp; <strong>&emsp;Linux</strong>
-&emsp;&emsp; <strong>&emsp;Ubuntu Server</strong>
-&emsp;&emsp; <strong>&emsp;Webpack</strong>
-&emsp;&nbsp; <strong>&emsp;Babel</strong>
-&emsp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
-&emsp;&emsp; <strong>&emsp;Jest</strong>
+&emsp;&emsp;&nbsp; <strong>&emsp;JWT</strong>
+&emsp;&emsp;&emsp;&nbsp; <strong>&emsp;Linux</strong>
+&emsp;&ensp; <strong>&emsp;Ubuntu Server</strong>
+&nbsp; <strong>&emsp;Webpack</strong>
+&emsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Babel</strong>
+&emsp;&emsp;&ensp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
+&emsp;&emsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Jest</strong>
 
 <div align="center">
   <br>
   &emsp; <img src="https://www.svgrepo.com/show/354274/redux.svg" width="100px"/> &ensp;
   <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="100px"/> &ensp;
   <img src="https://www.svgrepo.com/show/353972/knex.svg" width="100px"/> &ensp;
+</div>
+
+<div align="center">
+  <strong>Redux</strong>
+  &emsp;&emsp;&emsp;&emsp;&nbsp; <strong>Next.js</strong>
+  &emsp;&emsp;&emsp;&ensp; <strong>&emsp;Knex.js</strong>
 </div>

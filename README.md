@@ -13,6 +13,7 @@ Repositório do <strong>Projeto DEV CAADS</strong>, programa desenvolvido pelo C
 # Tecnologias utilizadas durante o projeto
 <div>
   &emsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px"/> &ensp;
+  <p>Javascript</p>
   <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="50px"/> &ensp;
   <img src="https://www.svgrepo.com/show/354259/react.svg" width="50px"/> &ensp;
   <img src="https://www.svgrepo.com/show/373669/html.svg" width="50px"/> &ensp;
